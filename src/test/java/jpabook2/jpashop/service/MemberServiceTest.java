@@ -19,7 +19,7 @@ Entity 메소드 중심으로 특히 비지니스 로직 등을 체크하여 보
 
 /*
 test 아래 폴더에 application.yml이 있으면
-main 아래 application.yml 보다 우선순위를 가지고 참조함.
+main 아래 application.properties 보다 우선순위를 가지고 참조함.
 */
 
 
